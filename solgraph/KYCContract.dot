@@ -1,0 +1,8 @@
+strict digraph {
+  KYCContract
+  setPerson
+  setApprove
+  setDisallowReference
+  getPerson [color=blue]
+}
+
