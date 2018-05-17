@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "openzeppelin-solidity": "^1.9.0",
+    "truffle-hdwallet-provider": "^0.0.5"
+  },
+  "devDependencies": {
+    "solgraph": "^0.2.6"
+  }
+}
