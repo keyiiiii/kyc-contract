@@ -85,6 +85,7 @@ contract KYCContract {
     string _tel
   ) {
     // @notice 閲覧許可情報
+    // owner と 本人はいつでも見れる
     _allowReference = appDetail[_person].allowReference;
     _approveBlockNo = appDetail[_person].approveBlockNo;
     _refLimitBlockNo = appDetail[_person].refLimitBlockNo;
